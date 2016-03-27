@@ -3,7 +3,7 @@
 " Description: Retro groove color scheme for Vim
 " Author: morhetz <morhetz@gmail.com>
 " Source: https://github.com/morhetz/gruvbox
-" Last Modified: 04 Sep 2015
+" Last Modified: 27 Mar 2016
 " -----------------------------------------------------------------------------
 
 " Supporting code -------------------------------------------------------------
