@@ -30,6 +30,8 @@ endfunction
 
 " Makes GVim begin maximised.
 au GUIEnter * simalt ~x
+" Remove backup (~) files.
+set nobackup
 " automatically detect filetypes.
 filetype plugin indent on
 " Remove auto-commenting for //
