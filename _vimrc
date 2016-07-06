@@ -52,9 +52,9 @@ set number
 "set noerrorbells
 " remove italics.
 "let g:solarized_italic=0
-let g:gruvbox_italic=0
-"change colour scheme.
-colorscheme gruvbox
+silent! let g:gruvbox_italic=0
+"change colour scheme, and fail quietly.
+silent! colorscheme gruvbox
 set background=dark
 " window dimensions.
 "set lines=100
