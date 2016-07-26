@@ -64,3 +64,5 @@ map <C-S-Tab> :tabprev<CR>
 map <C-Tab> :tabnext<CR>
 map <C-w> :tabclose<CR>
 map <C-t> :tabnew<CR>
+" Remove search highlight by pressing esc
+nnoremap <esc> :noh<return><esc>
